@@ -51,6 +51,10 @@
   },
   "license": "MIT",
   "main": "template.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gabimig/template-materila-redux.git"
+  },
   "keywords": [
     "react",
     "create-react-app",
