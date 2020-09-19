@@ -1,6 +1,6 @@
 {
   "name": "cra-temaplate-react-material-ui-redux",
-  "version": "1.5.0",
+  "version": "1.4.0",
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "@material-ui/icons": "^4.9.1",
@@ -42,7 +42,6 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "lint": "eslint ./**/*.tsx ./**/*.ts",
-    "publish": "npm publish --access public",
     "clean-files": "Rmdir /S/Q .\\template\\public && Rmdir /S/Q .\\template\\src && del .\\template\\.eslintrc.json",
     "copy-files": "xcopy /i/s .\\src .\\template\\src && xcopy /i/s .\\public template\\public && copy .eslintrc.json template\\ && copy tsconfig.json template\\",
     "prepublishOnly": "yarn clean-files && yarn copy-files"
