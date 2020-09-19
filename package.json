@@ -50,6 +50,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
+  "license": "MIT",
   "main": "template.json",
   "keywords": [
     "react",
