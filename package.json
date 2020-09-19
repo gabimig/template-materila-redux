@@ -1,6 +1,6 @@
 {
   "name": "cra-temaplate-react-material-ui-redux",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "@material-ui/icons": "^4.9.1",
@@ -52,13 +52,16 @@
   },
   "main": "template.json",
   "keywords": [
-    "react", 
+    "react",
     "create-react-app",
     "cra-template",
     "template",
     "prettier"
   ],
-  "files": ["template", "template.json"],
+  "files": [
+    "template",
+    "template.json"
+  ],
   "browserslist": {
     "production": [
       ">0.2%",
