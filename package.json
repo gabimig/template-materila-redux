@@ -1,6 +1,6 @@
 {
   "name": "cra-template-react-material-ui-redux",
-  "version": "1.4.0",
+  "version": "1.6.0",
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "@material-ui/icons": "^4.9.1",
@@ -60,7 +60,11 @@
     "create-react-app",
     "cra-template",
     "template",
-    "prettier"
+    "redux",
+    "toolkit",
+    "reduxjs/toolkit",
+    "eslint",
+    "material-ui"
   ],
   "files": [
     "template",
